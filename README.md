@@ -1,0 +1,2 @@
+# cbext
+Clientbase Extension Interface
